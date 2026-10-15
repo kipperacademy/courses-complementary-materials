@@ -1,0 +1,6 @@
+/out/
+/target/
+/data/
+*.db
+*.mv.db
+*.trace.db

@@ -1,0 +1,12 @@
+{
+  "name": "catalogo-cursos-node",
+  "version": "1.0.0",
+  "private": true,
+  "description": "API didática com uma rota GET para a aula localhost à produção",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "engines": {
+    "node": ">=22"
+  }
+}
